@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_docu=self.webpackChunkdocs_docu||[]).push([[9236],{9406:a=>{a.exports=JSON.parse('{"title":"Java","slug":"/category/java","permalink":"/test-docusaurus/docs/category/java","navigation":{"next":{"title":"Java","permalink":"/test-docusaurus/docs/java/que-es"}}}')}}]);
